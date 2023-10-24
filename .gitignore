@@ -1,3 +1,4 @@
 node_modules/
 .env
 private/.env
+package-lock.json
